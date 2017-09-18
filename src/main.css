@@ -242,10 +242,10 @@
 .table-list tr td {
   padding: 8px;
 }
-.item-checout .first-column-checkout {
+.item-checkout .first-column-checkout {
   width: 12%;
 }
-.item-checout td {
+.item-checkout td {
   border-bottom: 1px solid #ddd;
   border-top: none !important;
   text-align: center;
@@ -263,7 +263,7 @@
   margin-bottom: 10px;
   width: 100%;
 }
-.item-checout .delete-cart {
+.item-checkout .delete-cart {
   display: block;
   margin: 0 auto;
   text-align: center;
